@@ -181,7 +181,7 @@ def results():
             }
             p {
                 font-size: 16px;
-                margin: 10px 0;
+                margin: 11px 0;
             }
             a {
                 display: block;
